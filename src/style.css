@@ -1,0 +1,11 @@
+p {
+    font-size: 2rem;
+    color: red;
+}
+li {
+    list-style-type: none;
+    display: inline;
+}
+#nav {
+    background-color: black;
+}
